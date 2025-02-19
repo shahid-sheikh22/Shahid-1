@@ -1,6 +1,6 @@
 # Basic Subject Calculator
 
-Most basic code for calculating the pass or fail status of 4 subject.
+Most basic code for calculating the pass or fail status of 4 subject.........
 
 #include <stdio.h>
 
