@@ -3,7 +3,6 @@
 Most basic code for calculating the pass or fail status of 4 subject.........
 
 #include <stdio.h>
-
 int main() {
     int marks[4], i;
     int passing_marks = 40; // Define passing criteria
